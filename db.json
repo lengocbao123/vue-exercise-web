@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "1fd82f8e-f362-4f56-aae3-aa5b5524bfcf",
+      "thumbnail": "https://ik.imagekit.io/gsozk5bngn/product/product-1_wjQUoUsLs.jpg?updatedAt=1640835010901",
+      "title": "bell pepper",
+      "price": 120,
+      "salePrice": 80,
+      "discount": 30,
+      "slug": "bell-pepper"
+    },
+    {
+      "id": "9eb268ac-9ae0-4485-8d97-96d5135da62a",
+      "thumbnail": "https://ik.imagekit.io/gsozk5bngn/product/product-2_ySgKPE1Tihe.jpg?updatedAt=1640835011025",
+      "title": "strawberry",
+      "price": null,
+      "salePrice": 120,
+      "discount": null,
+      "slug": "strawberry"
+    },
+    {
+      "id": "466104bc-caaa-44de-8ca7-1a1a6a56ddc7",
+      "thumbnail": "https://ik.imagekit.io/gsozk5bngn/product/product-3_hYxuvwUWL.jpg?updatedAt=1640835011069",
+      "title": "green beans",
+      "price": null,
+      "salePrice": 120,
+      "discount": null,
+      "slug": "green-beans"
+    },
+    {
+      "id": "c2b0fac8-fa28-4578-826e-9a4c54be126b",
+      "thumbnail": "https://ik.imagekit.io/gsozk5bngn/product/product-4_ZJWhTmPs4.jpg?updatedAt=1640835011674",
+      "title": "purple cabbage",
+      "price": null,
+      "salePrice": 120,
+      "discount": null,
+      "slug": "purple-cabbage"
+    },
+    {
+      "id": "b459cb37-1391-451a-ae89-a8eb9a0d6295",
+      "thumbnail": "https://ik.imagekit.io/gsozk5bngn/product/product-5_B8rzdKbxU.jpg?updatedAt=1640835012241",
+      "title": "tomatoe",
+      "salePrice": 120,
+      "price": null,
+      "discount": 30,
+      "slug": "tomatoe"
+    },
+    {
+      "id": "456b6b49-aa3d-4f18-bef1-32a0374e9287",
+      "thumbnail": "https://ik.imagekit.io/gsozk5bngn/product/product-6_6tyl7fOwO0U.jpg?updatedAt=1640835012686",
+      "title": "brocolli",
+      "price": null,
+      "salePrice": 120,
+      "discount": null,
+      "slug": "brocolli"
+    },
+    {
+      "id": "bf6ad208-e9a7-4776-abda-756b42ff8a18",
+      "thumbnail": "https://ik.imagekit.io/gsozk5bngn/product/product-7_RmQL9taAn.jpg?updatedAt=1640835012972",
+      "title": "carrots",
+      "price": 120,
+      "salePrice": null,
+      "discount": null,
+      "slug": "carrots"
+    },
+    {
+      "id": "a1ba676c-e436-472b-8561-332319e5a39c",
+      "thumbnail": "https://ik.imagekit.io/gsozk5bngn/product/product-8_mWffSKJwu.jpg?updatedAt=1640835013495",
+      "title": "fruit juice",
+      "salePrice": 120,
+      "price": null,
+      "discount": null,
+      "slug": "fruit-juice"
+    }
+  ]
+}
